@@ -1,0 +1,4 @@
+Date: Thu Nov 5 08:33:15 UTC 2026
+OS:Linux
+files:data1.txt data2.txt
+details:total 8 -rw-rw-rw- 1 codespace codespace 86 Nov 5 08:15 data1.txt -rw-rw-rw- 1 codespace codespace 69 Nov 5 08:36 data2.txt
